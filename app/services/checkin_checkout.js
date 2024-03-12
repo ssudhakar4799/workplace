@@ -51,9 +51,12 @@ class Checkin_Checkout {
             const currentDate = moment();
             const toDayDate = currentDate.format('YYYY-MM-DD');
 
+            console.log(currentTime);
+
             // Format the current time as hh:mm:ss
             const formattedTime = currentTime.format('HH:mm:ss');
-
+            console.log(toDayDate);
+  console.log(formattedTime,"-----------------------");
             // checkin status
             if (checkin.checkinStatus) {
                 checkin.todayCheck = false;
