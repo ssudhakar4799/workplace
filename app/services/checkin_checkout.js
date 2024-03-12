@@ -46,17 +46,24 @@ class Checkin_Checkout {
 
             let checkin = new checkin_checkout(req.payload);
 
-            // Get the current time
-            const currentTime = moment();
-            const currentDate = moment();
+            // // Get the current time
+            // const currentTime = moment();
+            // const currentDate = moment();
+            // const toDayDate = currentDate.format('YYYY-MM-DD');
+
+            // console.log(currentTime);
+
+            // // Format the current time as hh:mm:ss
+            // const formattedTime = currentTime.format('HH:mm:ss');
+
+            const currentTime = moment.tz('Asia/Kolkata'); // Sets the timezone to IST
+            const currentDate = moment.tz('Asia/Kolkata');
+
             const toDayDate = currentDate.format('YYYY-MM-DD');
-
-            console.log(currentTime);
-
-            // Format the current time as hh:mm:ss
+            
+            // Format the current time in IST as hh:mm:ss
             const formattedTime = currentTime.format('HH:mm:ss');
-            console.log(toDayDate);
-  console.log(formattedTime,"-----------------------");
+            
             // checkin status
             if (checkin.checkinStatus) {
                 checkin.todayCheck = false;
