@@ -56,8 +56,8 @@ class Checkin_Checkout {
             // // Format the current time as hh:mm:ss
             // const formattedTime = currentTime.format('HH:mm:ss');
 
-            const currentTime = moment.tz('Asia/Kolkata'); // Sets the timezone to IST
-            const currentDate = moment.tz('Asia/Kolkata');
+            const currentTime = moment('Asia/Kolkata'); // Sets the timezone to IST
+            const currentDate = moment('Asia/Kolkata');
 
             const toDayDate = currentDate.format('YYYY-MM-DD');
             
