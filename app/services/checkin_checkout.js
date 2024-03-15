@@ -14,9 +14,8 @@ const config = require("../configs/configs")();
 const bcrypt = serviceLocator.get("bcrypt");
 const nodemailer = serviceLocator.get("nodemailer");
 const otpGenerator = serviceLocator.get("otpgenerator");
-// const moment = serviceLocator.get("moment");
+const moment = serviceLocator.get("moment");
 const crypto = require('crypto');
-const moment = require('moment-timezone');
 const cron = serviceLocator.get("cron");
 
 
@@ -46,23 +45,15 @@ class Checkin_Checkout {
 
             let checkin = new checkin_checkout(req.payload);
 
-            // // Get the current time
-            // const currentTime = moment();
-            // const currentDate = moment();
-            // const toDayDate = currentDate.format('YYYY-MM-DD');
+            // Get the current time
+            const currentTime = moment();
+            const currentDate = moment();
+            const toDayDate = currentDate.format('YYYY-MM-DD');
 
-            // console.log(currentTime);
+            console.log(currentTime);
 
-            // // Format the current time as hh:mm:ss
-            // const formattedTime = currentTime.format('HH:mm:ss');
-
-           const currentTime = moment.tz('Asia/Kolkata'); // Create current time in IST
-const currentDate = currentTime.clone(); // Create a clone of current time for date operations
-
-const toDayDate = currentDate.format('YYYY-MM-DD'); // Format date as YYYY-MM-DD
-
-// Format current time in IST as HH:mm:ss
-const formattedTime = currentTime.format('HH:mm:ss');
+            // Format the current time as hh:mm:ss
+            const formattedTime = currentTime.format('HH:mm:ss');
             
             // checkin status
             if (checkin.checkinStatus) {
