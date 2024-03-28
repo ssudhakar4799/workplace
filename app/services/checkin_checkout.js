@@ -16,7 +16,6 @@ const nodemailer = serviceLocator.get("nodemailer");
 const otpGenerator = serviceLocator.get("otpgenerator");
 const moment = serviceLocator.get("moment");
 const crypto = require('crypto');
-
 const cron = serviceLocator.get("cron");
 
 
@@ -51,9 +50,11 @@ class Checkin_Checkout {
             const currentDate = moment();
             const toDayDate = currentDate.format('YYYY-MM-DD');
 
+            console.log(currentTime);
+
             // Format the current time as hh:mm:ss
             const formattedTime = currentTime.format('HH:mm:ss');
-
+            
             // checkin status
             if (checkin.checkinStatus) {
                 checkin.todayCheck = false;
