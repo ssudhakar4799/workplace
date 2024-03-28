@@ -145,5 +145,13 @@ serviceLocator.register("RptManager", (serviceLocator) => {
 
 });
 
+serviceLocator.register("TimeSheet", (serviceLocator) => {
+
+  const  TimeSheet = require("../services/timeSheet");
+
+  return new TimeSheet();
+
+});
+
 
 module.exports = serviceLocator;

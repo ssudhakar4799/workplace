@@ -172,11 +172,64 @@ class Checkin_Checkout {
 
             return jsend(
                 200,
-                "Successfully Admin Profile was Created ", updateleave
+                "Successfully Approve Leave ", updateleave
             );
         } catch (e) {
             console.log(e);
             res.notAcceptable(e);
+        }
+    }
+
+    async findOneUserLeaves (req,res) {
+        try{
+
+
+            // token validation part
+            let findUser;
+            // Authentication
+            if (!req.query.token) {
+                return jsend(406, "Token is required");
+            }
+            var decoded = await jwt.verify(
+                req.query.token,
+                process.env.JWT_SECRET_KEY,
+                { algorithms: ["HS256"] }
+            );
+
+            if (decoded) {
+                findUser = await user.findOne({ _id: decoded._id });
+                if (!findUser) {
+                    return jsend(406, "Un-Authorized Access");
+                }
+            } else {
+                return jsend(406, "Un-Authorized Access");
+            }
+
+            let findAllUserLeaves = await leave.find({ empId: req.payload.id })
+
+            let listofLeaves = findAllUserLeaves.map((item)=>{
+                const id = item._id;
+                return{
+                    id:id,
+                    empId : item.empId,
+                    leaveType : item.leaveType,
+                    description: item.description,
+                    date: moment(item.date).format("DD-MM-YYYY"),
+                    yearMonth: item.yearMonth,
+                    approveStatus: item.approveStatus,
+                    approveBy: item.approveBy,
+                    fullDayLeave: item.fullDayLeave,
+                    leaveDuration:item.leaveDuration ? item.leaveDuration : "N/A" 
+
+                }
+            })
+
+            return jsend(200,"successfully fetch leaves", listofLeaves)
+
+        }
+        catch(e){
+            console.log(e);
+            res.notAcceptable(e)
         }
     }
 }

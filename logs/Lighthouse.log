@@ -28624,3 +28624,1365 @@
   label: 'LightHouse App Service',
   timestamp: '2024-03-11T04:44:05.109Z'
 }
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-12T10:06:55.921Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-12T11:12:20.005Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-12T11:12:31.123Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-12T15:26:00.016Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-12T15:26:11.849Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-13T04:36:40.669Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-13T04:36:57.976Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T05:21:01.633Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T06:24:47.706Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T06:24:58.749Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:25:28.941Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:28:27.617Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:30:36.437Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:31:38.696Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:32:38.947Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:33:06.887Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:33:16.084Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:35:27.762Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:35:58.075Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:36:10.260Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:36:43.029Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:36:57.334Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:37:22.964Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:37:45.087Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:38:06.380Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:39:04.339Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:39:10.484Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:39:24.819Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:40:45.101Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:41:05.992Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:41:32.205Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:41:49.610Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:42:35.386Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:44:05.292Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T07:45:00.588Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T08:31:37.712Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-20T08:31:51.731Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T03:17:55.539Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T03:50:50.320Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T06:58:08.088Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T06:58:19.958Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T08:07:20.999Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T08:07:32.153Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T12:05:12.546Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T12:05:25.401Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T12:17:36.903Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T12:18:58.046Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T13:40:39.551Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-21T13:47:07.792Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T05:40:09.699Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T05:51:22.714Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T05:52:28.479Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T05:55:16.753Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T05:55:25.855Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T06:23:29.307Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T06:23:40.997Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T07:27:25.438Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T07:31:36.947Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T09:16:33.758Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T09:21:35.789Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T09:55:07.973Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T09:59:58.645Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T14:47:23.464Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-23T17:08:16.798Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T04:43:53.388Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T05:55:09.939Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T05:55:38.002Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T06:34:21.299Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T06:34:32.249Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T08:28:51.549Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T08:29:04.648Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T10:20:29.171Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T10:20:40.266Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T11:11:54.034Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T11:12:05.321Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T12:15:41.494Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T12:16:00.547Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T14:33:59.336Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T14:34:18.938Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T15:45:45.298Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T16:01:58.677Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-25T16:38:23.188Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T04:32:58.663Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T05:29:26.631Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T05:30:47.845Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T05:32:06.506Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T07:17:13.644Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T07:17:24.703Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T07:52:31.629Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T07:55:43.433Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T07:57:09.932Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T08:34:38.738Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T08:41:47.733Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T08:41:59.914Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T08:44:05.857Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T08:52:35.310Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T08:54:26.838Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T08:55:23.019Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T08:55:33.984Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T09:45:40.872Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T09:46:27.211Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T10:22:18.850Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T10:28:11.065Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T10:40:25.804Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T11:30:17.424Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T11:32:12.033Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T11:51:36.711Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T11:52:33.966Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T11:53:20.461Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T12:02:41.003Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T12:02:51.956Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T12:22:27.757Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T12:22:38.767Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T12:48:33.623Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T12:48:44.644Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T16:12:50.875Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-26T16:13:14.608Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T03:49:14.809Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T03:49:26.217Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T06:43:50.713Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T07:51:40.664Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T07:52:00.458Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:08:18.439Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:12:22.635Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:12:50.697Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:14:58.254Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:15:23.865Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:15:29.385Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:15:41.869Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:15:56.064Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:16:06.936Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:16:15.287Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:16:20.361Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:16:29.576Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:16:39.148Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:16:57.952Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:17:16.785Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:18:02.337Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:51:10.779Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T08:57:22.251Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T09:00:24.555Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T09:05:57.164Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T09:08:31.863Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T09:09:14.138Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T09:31:13.865Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T09:58:05.574Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T09:58:16.834Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T09:58:33.144Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T09:59:34.896Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:00:08.137Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:00:29.873Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:01:26.023Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:03:18.767Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:08:48.163Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:11:30.763Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:12:29.894Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:13:06.193Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:14:59.399Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:25:15.730Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:26:03.655Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:27:17.696Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:27:23.091Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:28:11.470Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:37:19.973Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:46:22.872Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:47:59.153Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:48:23.526Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T10:49:21.530Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:10:21.299Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:10:32.342Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:12:53.698Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:13:18.569Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:16:10.175Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:18:47.755Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:19:39.107Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:19:57.003Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:22:44.822Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:23:37.189Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:28:13.510Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:28:32.688Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:29:09.375Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:29:45.708Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:31:15.347Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:31:33.381Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:39:12.793Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:41:03.804Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T11:43:36.147Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T13:05:24.104Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T13:14:06.544Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T15:04:27.706Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T15:05:01.998Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-27T16:30:58.506Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T04:15:54.768Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T05:50:31.257Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T05:57:22.256Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T06:29:06.398Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T07:02:27.097Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T07:08:08.385Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T07:09:40.295Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T07:10:29.334Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T07:10:45.486Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T07:21:13.484Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T07:21:24.756Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T08:17:57.276Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T08:18:18.441Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T10:04:15.281Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T10:04:29.432Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T10:22:37.337Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T10:22:49.500Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T10:43:11.263Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T10:53:56.134Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T10:55:35.648Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T10:57:15.097Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T11:15:27.018Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T11:17:56.831Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T11:22:45.697Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T11:26:22.484Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T11:26:44.513Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T11:38:34.125Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T11:39:19.643Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T11:49:00.899Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T12:36:59.326Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T12:53:03.360Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T13:15:47.608Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T14:37:38.486Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T15:49:22.464Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'LightHouse App Service',
+  timestamp: '2024-03-28T15:49:56.694Z'
+}

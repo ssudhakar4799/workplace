@@ -54,10 +54,16 @@ class USER {
         profile: path
       });
       let userID = users._id;
-      if (req.payload.role == "tech_trainer" || "executive_accountant" || "business_development_executive" || "quality_assurance_expert" || "creative_designer" || "program_co-ordinator" || "software_engineer" || "software_engineer_trainee") {
+
+      let search = ["tech_trainer", "executive_accountant", "business_development_executive", "quality_assurance_expert", "creative_designer", "program_co-ordinator", "software_engineer", "software_engineer_trainee"]
+      let result = search.includes(req.payload.role);
+      if (result) {
         users.userType = "employee"
       }
-      else if (req.payload.role == "operations_executive" || "head_of_operations" || "managing_director" || "director_of_HR_operations" || "admin") {
+
+      let searchs = ["operations_executive", "head_of_operations", "managing_director", "director_of_HR_operations", "admin"]
+      let results = searchs.includes(req.payload.role);
+      if(results){
         users.userType = "admin"
       }
 
@@ -287,11 +293,12 @@ class USER {
             userId: userLogIndetails._id,
             token: userLogIndetails.token,
             userType: userLogIndetails.userType,
-            profile:userLogIndetails.profile,
+            profile: userLogIndetails.profile,
             name: userLogIndetails.firstName,
             role: userLogIndetails.role,
-            empId:userLogIndetails.empId,
-            rptManager:userLogIndetails.rptManager
+            empId: userLogIndetails.empId,
+            rptManager: userLogIndetails.rptManager,
+            reportingManager:userLogIndetails.reportingManager
           };
 
           return jsend(200, "Login successful", userDetails);

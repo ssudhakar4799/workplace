@@ -3,14 +3,14 @@
 const serviceLocator = require("../lib/service_locator");
 const trimRequest = serviceLocator.get("trimRequest");
 const failAction = serviceLocator.get("failAction");
-const leave = serviceLocator.get("Leave");
+const timesheet = serviceLocator.get("TimeSheet");
 
 exports.routes = (server, serviceLocator) => {
     return server.route([
         {
-            path: "/LightHouse/createLeave",
+            path: "/LightHouse/createTimeSheet",
             method: "POST",
-            handler: leave.createLeave,
+            handler: timesheet.createTimeSheet,
             // options: {
             //     auth: false,
             //     validate: {
@@ -20,9 +20,9 @@ exports.routes = (server, serviceLocator) => {
             // },
         },
         {
-            path: "/LightHouse/updateLeave",
+            path: "/LightHouse/findOneUserAllTimeSheets",
             method: "POST",
-            handler: leave.updateLeave,
+            handler: timesheet.findOneUserAllTimeSheets,
             // options: {
             //     auth: false,
             //     validate: {
@@ -31,19 +31,6 @@ exports.routes = (server, serviceLocator) => {
             //     }
             // },
         },
-        {
-            path: "/LightHouse/findOneUserLeaves",
-            method: "POST",
-            handler: leave.findOneUserLeaves,
-            // options: {
-            //     auth: false,
-            //     validate: {
-            //         payload: require('../validations/user/createUserVaildation'),
-            //         failAction: failAction
-            //     }
-            // },
-        },
-       
     ]);
 
 };
