@@ -224,7 +224,7 @@ class ADMIN {
 
             }
             else {
-                res.jsend(400, "Not data found")
+                return jsend(400, "Not data found")
             }
 
         }

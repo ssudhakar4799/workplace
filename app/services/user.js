@@ -218,11 +218,15 @@ class USER {
         return jsend(406, "Un-Authorized Access");
       }
 
-      let userLogIndetails = await user.findOne({ _id: req.payload.id });
+      let userLogIndetails = await user.findOne({ empId: req.payload.id });
+      console.log(userLogIndetails);
 
       let userDetails = {
-        userId: userLogIndetails._id,
-        userType: userLogIndetails.userType,
+        firstName:userLogIndetails.firstName,
+        role:userLogIndetails.role,
+        email:userLogIndetails.email,
+        dob:userLogIndetails.dob,
+        age:userLogIndetails.age
       };
 
       if (findUser) {
@@ -484,15 +488,16 @@ class USER {
 
       //    data pass of values
 
-      let updateCourse = await user.findOne({ _id: req.payload.id });
+      let updateCourse = await user.findOne({ empId: req.payload.id });
+      console.log(updateCourse);
 
       if (updateCourse) {
         let passwordcheck = await bcrypt.compareSync(
-          req.payload.password,
+          req.payload.oldPassword,
           findUser.password
         );
         if (passwordcheck) {
-          findUser.password = await bcrypt.hashSync(req.payload.conformPassword, 10);
+          findUser.password = await bcrypt.hashSync(req.payload.password, 10);
           findUser = await findUser.save();
           return jsend(200, "Password changed successfully");
         }

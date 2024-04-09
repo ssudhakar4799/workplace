@@ -16,6 +16,7 @@ const nodemailer = serviceLocator.get("nodemailer");
 const otpGenerator = serviceLocator.get("otpgenerator");
 const moment = serviceLocator.get("moment");
 const crypto = require('crypto');
+
 const cron = serviceLocator.get("cron");
 
 
@@ -50,11 +51,9 @@ class Checkin_Checkout {
             const currentDate = moment();
             const toDayDate = currentDate.format('YYYY-MM-DD');
 
-            console.log(currentTime);
-
             // Format the current time as hh:mm:ss
             const formattedTime = currentTime.format('HH:mm:ss');
-            
+
             // checkin status
             if (checkin.checkinStatus) {
                 checkin.todayCheck = false;
@@ -137,7 +136,7 @@ class Checkin_Checkout {
                 // checkout time
                 updateCheckin.checkOutTime = formattedTime
 
-                console.log(totalTimes,"-----------");
+                console.log(totalTimes, "-----------");
                 // Present 
                 // checkin status
                 if (totalTimes >= 9) {
@@ -250,7 +249,33 @@ class Checkin_Checkout {
             //     return jsend(406, "Un-Authorized Access");
             //   }
 
-            let userLogIndetails = await checkin_checkout.find({ empId: req.payload.id });
+
+
+            // Get the current date
+            const currentDate = new Date();
+            // Get the first day of the current month
+            const firstDayOfMonth = new Date(currentDate.getFullYear(), currentDate.getMonth(), 1);
+            // Get the last day of the current month
+            const lastDayOfMonth = new Date(currentDate.getFullYear(), currentDate.getMonth() + 1, 0);
+
+            // Define the aggregation pipeline
+            const pipeline = [
+                {
+                    $match: {
+                        empId: req.payload.id,
+                        // Filter documents within the current month
+                        date: {
+                            $gte: firstDayOfMonth,
+                            $lte: lastDayOfMonth
+                        }
+                    }
+                }
+            ];
+
+            // Execute the aggregation pipeline
+            let userLogIndetails = await checkin_checkout.aggregate(pipeline);
+
+
 
             let modifyData;
             if (userLogIndetails) {
@@ -297,7 +322,7 @@ class Checkin_Checkout {
     async autoCheckin() {
         try {
 
-            let currentDate = moment().add(-1, 'days').format("YYYY-MM-DD"); 
+            let currentDate = moment().add(-1, 'days').format("YYYY-MM-DD");
             // console.log(yesterDay);
             // const currentDate = moment().format('YYYY-MM-DD');
 
@@ -338,7 +363,7 @@ class Checkin_Checkout {
     async notCheckin() {
         try {
 
-            let currentDate = moment().add(-1, 'days').format("YYYY-MM-DD"); 
+            let currentDate = moment().add(-1, 'days').format("YYYY-MM-DD");
             // console.log(yesterDay);
             // const currentDate = moment().format('YYYY-MM-DD');
 
