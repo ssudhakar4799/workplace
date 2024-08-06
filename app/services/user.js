@@ -229,7 +229,7 @@ class USER {
       //   age:userLogIndetails.age
       // };
 
-      if (findUser) {
+      if (userLogIndetails ) {
         return jsend(
           200,
           "Successfully fetched particular user profile",
