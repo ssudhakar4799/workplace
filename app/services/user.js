@@ -196,27 +196,27 @@ class USER {
   // find particular user
   async findOneUser(req, res) {
     try {
-      // token validation part
-      let findUser;
-      // Authontification
-      if (!req.query.token) {
-        return jsend(406, "Token is required");
-      }
-      var decoded = await jwt.verify(
-        req.query.token,
-        process.env.JWT_SECRET_KEY,
-        { algorithms: ["HS256"] }
-      );
+      // // token validation part
+      // let findUser;
+      // // Authontification
+      // if (!req.query.token) {
+      //   return jsend(406, "Token is required");
+      // }
+      // var decoded = await jwt.verify(
+      //   req.query.token,
+      //   process.env.JWT_SECRET_KEY,
+      //   { algorithms: ["HS256"] }
+      // );
 
-      if (decoded) {
-        findUser = await user.findOne({ _id: decoded._id });
+      // if (decoded) {
+      //   findUser = await user.findOne({ _id: decoded._id });
 
-        if (!findUser) {
-          return jsend(406, "Un-Authorized Access");
-        }
-      } else {
-        return jsend(406, "Un-Authorized Access");
-      }
+      //   if (!findUser) {
+      //     return jsend(406, "Un-Authorized Access");
+      //   }
+      // } else {
+      //   return jsend(406, "Un-Authorized Access");
+      // }
 
       let userLogIndetails = await user.findOne({ empId: req.payload.id });
       console.log(userLogIndetails);
