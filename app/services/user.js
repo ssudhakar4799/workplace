@@ -221,19 +221,19 @@ class USER {
       let userLogIndetails = await user.findOne({ empId: req.payload.id });
       console.log(userLogIndetails);
 
-      let userDetails = {
-        firstName:userLogIndetails.firstName,
-        role:userLogIndetails.role,
-        email:userLogIndetails.email,
-        dob:userLogIndetails.dob,
-        age:userLogIndetails.age
-      };
+      // let userDetails = {
+      //   firstName:userLogIndetails.firstName,
+      //   role:userLogIndetails.role,
+      //   email:userLogIndetails.email,
+      //   dob:userLogIndetails.dob,
+      //   age:userLogIndetails.age
+      // };
 
       if (findUser) {
         return jsend(
           200,
           "Successfully fetched particular user profile",
-          userDetails
+          userLogIndetails
         );
       } else {
         return jsend(400, "Failed to fetch the user profile");
